@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/hedon_basti
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hedonbasti.com
+  * I am hedon_basti (https://keybase.io/hedon_basti) on keybase.
+  * I have a public key with fingerprint A557 C891 5056 650F 462C  E54C 3E6B 04FD 3DB2 2EA4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207f491f4f6180f52a09a87c5d3409179c9821b1b816bcf4abb516cabd5c2bc9230a",
+      "fingerprint": "a557c8915056650f462ce54c3e6b04fd3db22ea4",
+      "host": "keybase.io",
+      "key_id": "3e6b04fd3db22ea4",
+      "kid": "0101810e0aa31a3c79073917c4fd41fd27eafdecf9d9b938368eaf58bbd00f54ac7e0a",
+      "uid": "4a75d769904f33fe016a78a728a99519",
+      "username": "hedon_basti"
+    },
+    "service": {
+      "hostname": "hedonbasti.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1599240564,
+  "expire_in": 157680000,
+  "prev": "9fd3d944f8c35dc477f3be8a9bd7545a43be4f2f048c5f8e856629d0f969a9bf",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNsAnicbZJ/TFVlGMfvFTC5gQaIrhSEU+ScNzy/z3kvQRMSxpqZsDJEup3znvdc
+jsA9l/srCG42N4qGTocSTR3SrFjKFMLlxAnixRQsf2DQBvYHv8IsKMyiAWrvYbn1
+R+8/7573+Tzf9/s879sdGWKymNOKQh+kfpX8mflq1xGfyZ5T7q0gZF0pJ2wVRBFa
+2FCxgjxee5GmEDaCpGhSUFlAqazKUyKpcrREAkkUIKcwLAkoAUAg0pRMySLFy1Bl
+JVnmKB5KssJBWoaAZkiJsBKq5nQgt8utOb1YVuI4AYqA4kiO5zlSZXkaIo6FDOJl
+klUVRpFpGkksLizUPUYFNidLHpSs6fgMB/YFe//DP/ZNUiJFIlKSGEpioABIgcFu
+IYZZSlVoAUmqgqAKFCADRmR4ER9woiwrJG6SlaCAFnz7FuRYSeAUgQcAX8YwKiIp
+XhJESaBFCQCOAgboQW6nVIIwXYgU3WnHdr0aEbASOOHXIDJmazTzX2iBSYZ6CRZw
+uXWvDvViI+f1ujw2o9Zb7jLgd5Bs/1fGLmtOBQ8TV/iR26PpTsJGYRJ6NUOX4gCg
+WTxW1kqgMpfmRnbNIDiBF0m8jHuQH0sCY2qAZVURMpwCWUFQGRnhfmRF4FhOYnHE
+qrRKsiLkVBGJ+KVooJAq4AGGVMJorNSpEzYB25QcWNKjOZyS1+dGROBi145Qk9li
+Why2yPhkJkv4U4+/nja27CHxQUbB8djtN2+7ch3PXk6s77UFhp7Y9/H8UJ7l1Yiq
+gbCv79RY6RE2WPjymx5/YoSze+uLl35s23vqrP5C7/LSsujSEyldY1+k6nR8buzR
+7LRr7atbdJ2L+mTQLnyXuTQYBitNxekDd9/KsszGt5xPn7nv6euq2l3dtO5crfpz
+RR28ZGaaViZsi+2YiKken3gj66J2N/racBkRl/Tl5ozGHxJOJOxr292ccqX35EtE
+wusr/8opTkunu2xNieMNyocb9jJTPQ3bgx/13CM3D0RFwWORGY+2LFetV3u+7diY
+/+lk5E/d4VHUtK/VPnL29x3PXHF+7x/UAm+/e6DW0/BKQ8hIiWPnmdpaf3V9+owp
++8lDuZ7hXet8+/Pz7q2N+6Oj7rkjEYWe/YOZNzrTkqz95FJiibaYmI+9r/3ZfKZ3
+OG990yp5ERoqjznecPrgncaCyknWUjN+cglxLsNc3zhrS5nJcAbbpjJTRm+1+if7
+fyX6L6xOTanyJdS1HRzLqsy8vOrv6fCbW2bTpmtShfG4A53R2bJeumfTsec3bRuL
+cYco5/OH54NmZrppbmNBYn/VrezD75edhg/75EBoa6fgaBnom5+CTy8Du9Y2k2vq
+826veBAal7M1fu7QaK68IYav2vle0oXr66/Pfd6Ofjk6M3Pj0W+jK0LWTJwq/yaq
+ZU9Y8LVAe8ThfwDVmr4h
+=r+kM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hedon_basti
+
+==================================================================
